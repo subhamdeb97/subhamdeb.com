@@ -1,5 +1,5 @@
 import React from 'react'
-import Comm from 'components/comm'
+import Comm from '../../../components/comm'
 export default function page() {
   return (
     <div>
